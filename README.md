@@ -4,7 +4,7 @@
 
 The list displayed as follows are the explanations of the usages/content of each folder which are the current third party toolkit I in personnel use at the moment.
 
-- **bookmarks**: As indicated in the folder name, a complete set of my self collected bookmarks over past years. Within the folder two file named with `toshiki-bookmark.html` and `toshiki-bookmarklet.html` corresponds to the actual bookmark set, the other one contains bookmarklets which are bookmarks stored in a web browser that contains JavaScript commands that add new features to the browser. (refer more of bookmarklet [here](https://en.wikipedia.org/wiki/Bookmarklet))
+- **bookmarks**: As indicated in the folder name, a complete set of my self collected bookmarks over past years. Within the folder two file named with `toshiki-bookmark.html` and `toshiki-bookmarklet.html` corresponds to the actual bookmark set, the other one contains bookmarklets which are bookmarks stored in a web browser that contains JavaScript commands that add new features to the browser. (refer more about bookmarklet [here](https://en.wikipedia.org/wiki/Bookmarklet))
 
 - **feeds**: Indicated in the name of the folder, the RSS feeds I subscribed over the past year viewed via extension rss [feeder](https://feeder.co). (To be honest I just store them for a weird collectomania possession but rarely view, totally based off my own mood)
 
